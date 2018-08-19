@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",   
+    "navigationBarBackgroundColor": "#fcfcfc",   
+    "navigationBarTitleText": "微信点餐系统",  
+    "navigationBarTextStyle":"black",    
+    "enablePullDownRefresh":true 
+  }
+}
